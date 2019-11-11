@@ -1,0 +1,9 @@
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\csharp\Goyanuk\oop-lab7-1\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb

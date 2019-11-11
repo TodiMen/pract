@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb
+D:\csharp\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+D:\csharp\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+D:\csharp\cs\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+D:\csharp\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csprojAssemblyReference.cache
+D:\csharp\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+D:\csharp\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+D:\csharp\cs\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb

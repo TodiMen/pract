@@ -1,0 +1,180 @@
+/*
+Theme Name: BusiMax
+Theme URI: https://themeansar.com/free-themes/busimax/
+Author: themeansar
+Author URI: https://themeansar.com
+Template: businessup
+Description: BusiMax WordPress theme ideal for a business or blog website (corporate, Consulting, Accounting, Advisor, Agency, Finance, consult, law, Photography, freelancers, online presence etc.). You can also use for anything. It comes with all features these kind of Google Fonts, logo upload, slider, service, blog, shop page, latest news, about us, portfolio, contact us and much more. The theme you can use for any business website. Work with the most popular page builders as SiteOrigin. Developers will love his extensible codebase making it a joy to customize and extend. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://themeansar.com/demo/wp/businessup/standard/
+Version: 1.2.8
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, translation-ready, custom-background, custom-logo, featured-images, footer-widgets, full-width-template, blog, e-commerce, entertainment
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: busimax
+*/
+
+.ta-trhead {
+	position: absolute;
+	right: 0;
+	left: 0;
+	z-index: 999;
+}
+.ta-headwidget.widtr {
+	position: absolute;
+	right: 0;
+	left: 0;
+	z-index: 999;
+}
+.ta-headwidget.widtr .navbar-wp {
+    opacity: 0.85;
+}
+.ta-headwidget.widtr .navbar-wp .navbar-nav > li > a {
+    padding: 18px 20px;
+}
+
+.ta-calltoaction {
+	height: 100%;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	background-image: url(images/calltoaction.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.ta-portfolio-box h4 a {
+	font-size: 21px;
+	font-weight: 700;
+	letter-spacing: 0;
+	line-height: 20px;
+	padding-top: 8px;
+}
+
+.ta-breadcrumb-section.tr .overlay {
+	padding: 250px 0 60px 0;
+}
+
+.ta-head-detail .info-left {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.ta-head-detail .info-left li {
+    display: inline-block;
+    margin-right: 15px;
+    padding: 0;
+}
+
+.ta-head-detail .info-left li a {
+    font-size: 13px;
+}
+
+.ta-head-detail .info-left i {
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+.ta-head-detail {
+    padding: 5px 0;
+}
+
+.header-widget .ta-header-box {
+    margin: 28px 0 0 0;
+}
+
+.header-widget .ta-header-box-icon i {
+    background: #ebe9eb;
+    color: #3039ac;
+}
+.header-widget .ta-header-box-icon i {
+    border-radius: 10px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    width: 36px;
+    font-size: 22px;
+}
+.header-widget .ta-header-box-icon {
+    float: left;
+    display: inline-block;
+    height: auto;
+    margin-right: 0;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    width: auto;
+    line-height: 35px;
+}
+
+.header-widget .ta-header-box-info {
+    margin-left: 20px;
+    padding-left: 25px;
+}
+
+.ta-headwidget.widtr .ta-header-box-info h4, .ta-headwidget.widtr .ta-header-box-info p {
+    color: #fff;
+}
+.header-widget .ta-header-box-info h4 {
+    font-size: 14px;
+    line-height: 15px;
+    padding: 2px 0 0;
+    font-weight: 600;
+}
+
+.ta-headwidget.widtr .ta-header-box-info h4, .ta-headwidget.widtr .ta-header-box-info p {
+    color: #fff;
+}
+.header-widget .ta-header-box-info p {
+    line-height: 14px;
+    font-size: 12px;
+}
+
+.ta-nav-widget-area {
+    padding-bottom: 15px;
+}
+
+.site-title a, .site-title a:hover, .site-description{color:#fff;}
+
+/* Accessibility */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  right: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}

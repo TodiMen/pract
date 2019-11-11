@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\bin\Debug\Arrays1DWinForms.exe.config
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\bin\Debug\Arrays1DWinForms.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\bin\Debug\Arrays1DWinForms.pdb
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.Form1.resources
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.Properties.Resources.resources
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrays1DWinForms\obj\Debug\Arrays1DWinForms.pdb

@@ -1,0 +1,529 @@
+/*
+ * Right To Left Styling
+*/
+
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+}
+
+/* =Fonts
+-------------------------------------------------------------- */
+
+.entry-content code {
+	border-left: none;
+	border-right: 3px solid #EEEEEE;
+
+}
+
+/* =Structure
+-------------------------------------------------------------- */
+
+#branding {
+	float: right;
+}
+
+.footerfour .widget-area {
+	float: right;
+	margin-right: 0;
+	margin-left: 6%;
+}
+
+.footerthree .widget-area {
+	float: right;
+	margin-right: 0;
+	margin-left: 8%;
+}
+
+.footertwo .widget-area {
+	float: right;
+	margin-right: 0;
+	margin-left: 5%;
+}
+
+.footerone .widget-area {
+	float: right;
+}
+
+#footer-widget-area .widget-area:last-child {
+	margin-left: 0;
+}
+
+#site-generator {
+	float: left;
+}
+
+.entry-content ul, .entry-summary ul  {
+	margin-left: 0;
+	margin-right: 1.5em;
+}
+
+.entry-content ul > li {
+	padding-left: 0;
+	padding-right: 20px;
+	background-position-x: right;
+}
+
+.entry-content  li li {
+	margin-left: 0;
+	margin-right: 15px;
+}
+
+ol {
+	margin-left: 0;
+	margin-right: 1.5em;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea {
+	padding-right: .5em;
+}
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+	position: absolute;
+	left: auto;
+	right: -9000px;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+#site-description {
+	float: right;
+}
+
+#header-container > div {
+	margin-left: 0;
+	margin-right: 40px;
+}
+
+/* =Menu -PRIMARY
+-------------------------------------------------------------- */
+
+#access {
+	float: right;
+}
+
+#access ul li {
+	float: right;
+}
+
+#access ul ul {
+	margin-right: 0;
+}
+
+#access ul ul li { /* level 2 */
+	float: right;
+}
+
+#access ul ul ul {
+	left: auto;
+	right: 100%;
+}
+
+/* =Menu -SECONDARY
+-------------------------------------------------------------- */
+
+.topmenu ul {
+	float: left;
+}
+
+.topmenu ul li {
+	float: right;
+}
+
+.footermenu ul li{
+	float: right;
+}
+
+
+/* =Content
+-------------------------------------------------------------- */
+
+.entry-content table {
+	text-align: right;
+}
+
+.entry-meta .comments-link {
+    float: left;
+}
+
+.entry-content blockquote.left {
+	float: right;
+	margin-left: 24px;
+	margin-right: 0;
+	text-align: left;
+}
+.entry-content blockquote.right {
+	float: left;
+	margin-right: 24px;
+	margin-left: 0;
+	text-align: right;
+}
+
+.tag-links {
+	margin-left: 0;
+	margin-right: 30px;
+}
+
+.page-link {
+	margin: 20px 0 20px 10px;
+}
+
+#entry-author-info #author-avatar,
+#author-info #author-avatar {
+	float: right;
+	margin: 0 0 0 -104px;
+
+}
+
+#entry-author-info #author-description,
+#author-info #author-description {
+	float: right;
+	margin: 0 104px 0 0;
+}
+
+article.format-link header,
+article.format-quote header,
+article.format-image header,
+article.format-chat header,
+article.format-aside header {
+	padding-left: 0;
+	padding-right: 60px;
+}
+
+
+/**
+ * 5.4 Galleries
+ * ----------------------------------------------------------------------------
+ */
+
+.gallery-item {
+	float: right;
+	margin: 0 0 4px 4px;
+}
+
+.gallery-columns-1 .gallery-item:nth-of-type(1n),
+.gallery-columns-2 .gallery-item:nth-of-type(2n),
+.gallery-columns-3 .gallery-item:nth-of-type(3n),
+.gallery-columns-4 .gallery-item:nth-of-type(4n),
+.gallery-columns-5 .gallery-item:nth-of-type(5n),
+.gallery-columns-6 .gallery-item:nth-of-type(6n),
+.gallery-columns-7 .gallery-item:nth-of-type(7n),
+.gallery-columns-8 .gallery-item:nth-of-type(8n),
+.gallery-columns-9 .gallery-item:nth-of-type(9n) {
+	margin-left: 0;
+}
+
+.gallery-caption {
+	left: auto;
+	right: 0;
+}
+
+/* =Status
+-------------------------------------------------------------- */
+
+#content .format-status .entry-meta2 {
+	float: right;
+	clear: left;
+	padding-right: 0;
+}
+
+.status_content {
+	float: right;
+}
+
+#content .format-status h3.entry-format {
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.format-status .avatar {
+	float: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+#content .alignleft,
+#content img.alignleft {
+	float: right;
+	margin-left: 24px;
+	margin-right: 0;
+}
+
+#content .alignright,
+#content img.alignright {
+	float: left;
+	margin-left: 0;
+	margin-right: 24px;
+}
+
+
+/* =Navigation
+-------------------------------------------------------------- */
+
+.nav-previous {
+	float: right;
+}
+
+.nav-next {
+	float: left;
+	text-align: left;
+}
+
+
+/* =Comments
+-------------------------------------------------------------- */
+
+.commentlist img.avatar {
+	left: auto;
+	right: 0;
+}
+
+.comment-author {
+	float: right;
+}
+
+.comment-meta {
+	float: right;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.commentlist .children {
+	margin: 0 -40px 0 0;
+}
+
+.children #respond {
+	margin: 0 0 0 48px;
+	min-width: 400px;
+}
+
+#commentform  {
+	float: right;
+}
+
+.comment-form-comment textarea {
+	float: left;
+	margin-left: 0;
+	margin-right: 12px;
+}
+
+.comment-form-author label,
+.comment-form-email label,
+.comment-form-email label,
+.comment-form-url label,
+.comment-form-comment label {
+	float: left;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-email input,
+.comment-form-url input,
+.comment-form-comment input {
+	float: left;
+}
+
+#respond .form-allowed-tags {
+	margin-left: 0;
+	margin-right: 12px;
+}
+
+#respond .form-submit {
+	text-align: left;
+}
+
+
+/* =Widget Areas
+-------------------------------------------------------------- */
+
+.widget-area ul {
+	margin-right: 0;
+}
+
+.widget-area ul ul {
+	margin-right: 0;
+}
+
+.widget-area ul li {
+	margin-right: 0;
+}
+
+.contentsearch .s {
+	float: right;
+	padding-left: 0;
+	padding-right: 1em;
+}
+
+.contentsearch .searchsubmit {
+	left: auto;
+	right: -40px;
+	float: right;
+}
+#main #searchform,
+#footer #searchform {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.widget_search .s,
+#search .s  {/* This keeps the search inputs in line This is the Sidebar Search*/
+	right: auto;
+	left: 0;
+	padding-left: 0;
+	padding-right: 1em;
+}
+
+.widget_search .searchsubmit {
+	right: auto;
+	left: 0;
+	border-radius: 100px 0 0 100px;
+}
+
+#footer-widget-area ul ul li {
+	padding-right: 0;
+	margin-right: 0;
+}
+
+#calendar_wrap {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+#wp-calendar caption {
+	text-align: right;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+/* Main sidebars */
+#main .widget-area ul {
+	margin-right: 0;
+}
+
+#main .widget-area ul ul {
+	margin-right: 0;
+}
+
+.widget-area ul ul li {
+	padding-left: 0;
+	padding-right: 15px;
+	background-position: right calc(2em / 2 - 4px);
+}
+
+/* =Footer
+-------------------------------------------------------------- */
+
+/* SOCIALS */
+.socials {
+	float: left;
+}
+
+.socials a {
+	float: right;
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+#header-container > div#sheader {
+	right: auto;
+	left: 10px;
+}
+
+#sfooter {
+	float: left;
+}
+
+#sfooter a {
+	margin-left: 0;
+	margin-right: 5px;
+}
+
+/* ARTICLES */
+#toTop {
+	right: auto;
+	left: 20px;
+}
+
+/* EDIT POST LINK */
+.edit-link {
+	float: left;
+}
+
+.pagination span,
+.pagination a {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+/* PRESENTATION PAGE */
+
+#front-columns  > div {
+	float: right;
+}
+
+#front-columns.front-columns-4  > div {
+	margin-right: 0;
+	margin-left: 4%;
+}
+
+#front-columns.front-columns-3  > div {
+	margin-right: 0;
+	margin-left: 5.5%;
+}
+
+#front-columns.front-columns-2  > div {
+	margin-right: 0;
+	margin-left: 5%;
+}
+
+#front-columns.front-columns-4 > div:last-child,
+#front-columns.front-columns-3 > div:last-child,
+#front-columns.front-columns-2 > div:last-child {
+	margin-left: 0;
+}
+
+/* Front page columns */
+.nivoSlider img {
+	left: auto;
+	right: 0;
+}
+
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	left: auto;
+	right: 0;
+}
+
+.nivo-prevNav {
+	left: auto;
+	right: 0;
+}
+
+.nivo-nextNav {
+	right: auto;
+	left: 0;
+}
+
+.theme-default .nivoSlider img {
+	left: auto;
+	right: 0;
+}
+
+.theme-default a.nivo-nextNav {
+	right: auto;
+	left: 30px;
+}
+
+.theme-default a.nivo-prevNav {
+	left: auto;
+	right: 30px;
+}
+
+/* FIN! */

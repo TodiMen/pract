@@ -1,0 +1,40 @@
+# Translation of Themes - BusiMax in Russian
+# This file is distributed under the same license as the Themes - BusiMax package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-30 13:09:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - BusiMax\n"
+
+#. Theme Name of the theme
+msgid "BusiMax"
+msgstr "BusiMax"
+
+#. Description of the theme
+msgid "BusiMax WordPress theme ideal for a business or blog website (corporate, Consulting, Accounting, Advisor, Agency, Finance, consult, law, Photography, freelancers, online presence etc.). You can also use for anything. It comes with all features these kind of Google Fonts, logo upload, slider, service, blog, shop page, latest news, about us, portfolio, contact us and much more. The theme you can use for any business website. Work with the most popular page builders as SiteOrigin. Developers will love his extensible codebase making it a joy to customize and extend. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://themeansar.com/demo/wp/businessup/standard/"
+msgstr "Тема WordPress BusiMax идеально подходит для бизнеса или блога (корпоративный, консалтинг, бухгалтерский учет, консультант, агентство, финансы, консультации, право, фотография, фрилансеры, присутствие в Интернете и т. Д.) Вы также можете использовать для чего угодно. Он поставляется со всеми функциями, такими как Google Fonts, загрузка логотипа, слайдер, сервис, блог, страница магазина, последние новости, о нас, портфолио, свяжитесь с нами и многое другое. Тема, которую вы можете использовать для любого бизнес-сайта. Работайте с самыми популярными компоновщиками страниц как SiteOrigin. Разработчики будут любить его расширяемую кодовую базу, делая ее удобной для настройки и расширения. Ищете многоцелевую тему? Смотрите не дальше! Проверьте демонстрации, чтобы понять, что это единственная тема, которая вам когда-либо понадобится: https://themeansar.com/demo/wp/businessup/standard/"
+
+#: header.php:157
+msgid "Toggle Navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: header.php:41
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/free-themes/busimax/"
+msgstr "https://themeansar.com/free-themes/busimax/"

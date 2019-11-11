@@ -1,0 +1,10 @@
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.exe.config
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.exe
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.pdb
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csprojAssemblyReference.cache
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.Form1.resources
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.Properties.Resources.resources
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csproj.GenerateResource.cache
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csproj.CoreCompileInputs.cache
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.exe
+D:\csharp\cs\oop-lab3\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.pdb

@@ -1,0 +1,599 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Businessup\n"
+"POT-Creation-Date: 2019-09-04 12:31+0530\n"
+"PO-Revision-Date: 2019-09-04 12:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15 inc/ansar/breadcrumb.php:94
+msgid "404"
+msgstr ""
+
+#: 404.php:27
+msgid "4"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: comments.php:39 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:28 sections/home-blog.php:57 single.php:32 single.php:47
+msgid "by"
+msgstr ""
+
+#: content.php:42
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "Theme by %1$s"
+msgstr ""
+
+#: footer.php:39 functions.php:88
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:176
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:186
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:196
+msgid "Service Widget Area"
+msgstr ""
+
+#: functions.php:218
+msgid "Slider Widgets Area"
+msgstr ""
+
+#: functions.php:253 functions.php:261
+msgid "Read More"
+msgstr ""
+
+#: functions.php:269
+#, php-format
+msgid "To Set Exact Replica of Businessup Theme Install %sDemo Import%s."
+msgstr ""
+
+#: functions.php:270
+msgid "Get started with Demo Import Businessup Theme"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:166
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/ansar/breadcrumb.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: inc/ansar/breadcrumb.php:28
+msgid "Search results for"
+msgstr ""
+
+#: inc/ansar/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/ansar/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/ansar/breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: inc/ansar/businessup-custom-navwalker.php:175
+msgid "Home"
+msgstr ""
+
+#: inc/ansar/customize/customize-pro/class-customize.php:64
+msgid "Businessup Pro"
+msgstr ""
+
+#: inc/ansar/customize/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Background Setting"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:24
+#: inc/ansar/customize/ta_customize_homepage.php:165
+#: inc/ansar/customize/ta_customize_homepage.php:335
+msgid "Background Image"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:35
+#: inc/ansar/customize/ta_customize_homepage.php:44
+#: inc/ansar/customize/ta_customize_homepage.php:85
+#: inc/ansar/customize/ta_customize_homepage.php:346
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:44
+msgid "Widget Column Layout"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_copyright.php:60
+msgid "Select Column Layout"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:13
+msgid "Header Top Bar Setting"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:24
+#: inc/ansar/customize/ta_customize_homepage.php:31
+#: inc/ansar/customize/ta_customize_homepage.php:72
+#: inc/ansar/customize/ta_customize_homepage.php:151
+#: inc/ansar/customize/ta_customize_homepage.php:322
+msgid "Hide / Show Section"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:36
+msgid "Info one"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:48
+msgid "Info two"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:60
+#: inc/ansar/customize/ta_customize_homepage.php:229
+#: inc/ansar/customize/ta_customize_homepage.php:268
+#: inc/ansar/widget/businessup-service.php:137
+#: inc/ansar/widget/businessup-slider.php:136
+msgid "Button Text"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:72
+#: inc/ansar/customize/ta_customize_homepage.php:242
+#: inc/ansar/customize/ta_customize_homepage.php:281
+#: inc/ansar/widget/businessup-service.php:140
+#: inc/ansar/widget/businessup-slider.php:139
+msgid "Button Link"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:84
+#: inc/ansar/customize/ta_customize_homepage.php:255
+#: inc/ansar/customize/ta_customize_homepage.php:294
+#: inc/ansar/widget/businessup-service.php:158
+#: inc/ansar/widget/businessup-slider.php:152
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:90
+msgid "Header Widget One Setting"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:102
+#: inc/ansar/customize/ta_customize_header.php:146
+#: inc/ansar/customize/ta_customize_header.php:190
+msgid "Icon"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:114
+#: inc/ansar/customize/ta_customize_header.php:158
+#: inc/ansar/customize/ta_customize_header.php:202
+#: inc/ansar/customize/ta_customize_homepage.php:112
+#: inc/ansar/customize/ta_customize_homepage.php:203
+#: inc/ansar/customize/ta_customize_homepage.php:385
+#: inc/ansar/widget/businessup-service.php:102
+#: inc/ansar/widget/businessup-slider.php:104
+msgid "Title"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:126
+#: inc/ansar/customize/ta_customize_header.php:170
+#: inc/ansar/customize/ta_customize_header.php:214
+#: inc/ansar/customize/ta_customize_homepage.php:124
+#: inc/ansar/customize/ta_customize_homepage.php:216
+#: inc/ansar/customize/ta_customize_homepage.php:398
+#: inc/ansar/widget/businessup-service.php:109
+#: inc/ansar/widget/businessup-slider.php:111
+msgid "Description"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:134
+msgid "Header Widget Two Setting"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_header.php:178
+msgid "Header Widget Three Setting"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:8
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:19
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:58
+msgid "Service Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:97
+#: inc/ansar/customize/ta_customize_homepage.php:187
+#: inc/ansar/customize/ta_customize_homepage.php:357
+msgid "Text Color"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:138
+msgid "Callout Settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:307
+msgid "Latest News settings"
+msgstr ""
+
+#: inc/ansar/customize/ta_customize_homepage.php:372
+msgid ""
+"Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr ""
+
+#: inc/ansar/import.php:8
+msgid ""
+"Click IMPORT DEMO DATA button and install the <a href=\"https://themeansar."
+"com/demo/wp/businessup/lite/\">exact demo replica of the Businessup theme</a>"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:34
+#: inc/ansar/themeinfo/themeinfo-detail.php:99
+msgid "About"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:78
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Businessup! To take full advantage of the "
+"best our theme can offer, please make sure you visit our %swelcome page%s"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:79
+msgid "Get started with Businessup"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:106
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:108
+msgid "Lite Demo"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:110
+msgid "Pro Demo"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:112
+msgid "Rating this theme"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:120
+msgid "Supported Plugins"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:124
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:158
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:159
+msgid "Customize"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:163
+msgid "Home Page Section Widget"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:164
+msgid "Widgets"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:168
+#: inc/ansar/themeinfo/themeinfo-detail.php:169
+msgid "Documentation"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:173
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:174
+msgid "Support Forum"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:178
+msgid "Upgrade to PRO version"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:179
+msgid "View Pro"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:183
+msgid "Got sales related question?"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:184
+msgid "Contact Page"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:190
+#: inc/ansar/themeinfo/themeinfo-detail.php:197
+msgid "Translate"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:209
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:209
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:212
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:212
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:227
+msgid "This theme recommends following plugins:"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:229
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:230
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:231
+msgid "Polylang"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:232
+#: inc/ansar/themeinfo/themeinfo-detail.php:235
+msgid "Fully Compatible in Pro Version"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:234
+msgid "WPML"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:255
+msgid "Install Now"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:278
+msgid "Active Now"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:294
+msgid "Import Dummy Data"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:295
+msgid ""
+"<p><strong>One Click Demo Import</strong> is the WordPress Plugin helps to "
+"create exact replica of businessup theme. Click and Process.</p>"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:296
+msgid "Key Notes:"
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:298
+msgid "Click the button to install the plugin. Ignore if already installed."
+msgstr ""
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:299
+msgid "After activation go to Appreance >> Import Demo Data."
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:15
+msgid "BUP - Service Widget"
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:97
+msgid "Enter Font Awesome icon class (like: fa-cloud"
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:97
+msgid "Find all icons here"
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:115
+#: inc/ansar/widget/businessup-slider.php:117
+msgid "Image"
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:121
+#: inc/ansar/widget/businessup-service.php:128
+#: inc/ansar/widget/businessup-slider.php:123
+#: inc/ansar/widget/businessup-slider.php:130
+msgid "Upload Image"
+msgstr ""
+
+#: inc/ansar/widget/businessup-service.php:132
+msgid "Hide Featured Image"
+msgstr ""
+
+#: inc/ansar/widget/businessup-slider.php:17
+msgid "BUP - Slider Widget"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:71
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:24
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:26
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search &help;"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Businessup"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeansar.com/businessup-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Businessup WordPress theme ideal for a business or blog website (corporate, "
+"Consulting, Advisor, Agency, Finance, consult, law, Photography, "
+"freelancers, online presence etc.). You can also use for anything. It comes "
+"with all features these kind of Google Fonts, logo upload, slider, service, "
+"blog, shop page, latest news, about us, portfolio, contact us and much more. "
+"The theme you can use for any business website. Work with the most popular "
+"page builders as SiteOrigin. Businessup premium version provides you more "
+"than 10 different designs and supports popular plugins WPML, Polylang, "
+"WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, "
+"WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation "
+"Plugin), Gravity Forms, Yoast SEO and many more. Looking for a Multi-Purpose "
+"theme? Look no further! Check the demos to realize that it's the only theme "
+"you will ever need: https://themeansar.com/demo/wp/businessup/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themeansar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeansar.com"
+msgstr ""

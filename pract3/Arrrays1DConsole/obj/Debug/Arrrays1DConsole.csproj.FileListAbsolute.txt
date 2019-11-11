@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\bin\Debug\Arrrays1DConsole.exe.config
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\bin\Debug\Arrrays1DConsole.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\bin\Debug\Arrrays1DConsole.pdb
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\obj\Debug\Arrrays1DConsole.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\obj\Debug\Arrrays1DConsole.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\obj\Debug\Arrrays1DConsole.exe
+C:\Users\lenovo\Desktop\cs\oop-lab3\Arrrays1DConsole\obj\Debug\Arrrays1DConsole.pdb

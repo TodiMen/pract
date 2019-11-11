@@ -1,0 +1,12 @@
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\bin\Debug\oop-lab8.exe.config
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\bin\Debug\oop-lab8.exe
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\bin\Debug\oop-lab8.pdb
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop-lab8.csprojAssemblyReference.cache
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop_lab8.Form1.resources
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop_lab8.Properties.Resources.resources
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop_lab8.Resource1.resources
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop-lab8.csproj.GenerateResource.cache
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop-lab8.csproj.CoreCompileInputs.cache
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop-lab8.exe
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop-lab8.pdb
+D:\csharp\Goyanuk\oop-lab8\oop-lab8\obj\Debug\oop_lab8.Resources.Resource2.resources
